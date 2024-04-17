@@ -2,10 +2,11 @@
 style = "Underline"
 unfocused_hollow = true
 
+[font]
+normal = { family = "JetBrainsMonoNL Nerd Font" }
 
 [window]
-startup_mode = "Fullscreen"
-opacity = 0.87
+startup_mode = "Windowed"
 
 [bell]
 animation = "Ease"
@@ -24,7 +25,7 @@ hide_when_typing = true
 # Dracula theme
 [colors.primary]
 
-background = "#282a36"
+background = "#000000"
 foreground = "#f8f8f2"
 bright_foreground = "#ffffff"
 
@@ -89,4 +90,3 @@ background = "#f1fa8c"
 
 foreground = "#f1fa8c"
 background = "#282a36"
-
